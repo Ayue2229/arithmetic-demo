@@ -1,9 +1,7 @@
 package com.example.demo;
 
-import sun.security.util.LegacyAlgorithmConstraints;
 
 import javax.sound.midi.Soundbank;
-import javax.xml.bind.SchemaOutputResolver;
 import java.util.Arrays;
 import java.util.Scanner;
 
